@@ -60,6 +60,16 @@ It provides:
 
 ---
 
+🧪 Demo
+
+![Demo Screenshot](demo-screenshot.png)
+
+
+🔐 Demo Login Credentials
+
+Email: demo@example.com
+Password: Demo@123
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React (JavaScript)  
@@ -159,12 +169,3 @@ Build production bundle:
 npm run build
 # or
 yarn build
-
-
-
-
-
-
-
-
-
