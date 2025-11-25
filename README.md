@@ -59,16 +59,17 @@ It provides:
   Deactivate or delete user accounts.
 
 ---
+## 🧪 Demo
 
-🧪 Demo
+![Demo Screenshot](/mnt/data/426f6d4c-8839-4b8e-9c6b-0428973b5892.png)
 
-![Demo Screenshot](demo-screenshot.png)
+---
 
+## 🔐 Demo Login Credentials
 
-🔐 Demo Login Credentials
+**Email:** demo@example.com  
+**Password:** Demo@123
 
-Email: demo@example.com
-Password: Demo@123
 
 ## 🛠️ Tech Stack
 
