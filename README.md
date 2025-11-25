@@ -58,10 +58,19 @@ It provides:
 - **Delete Users**  
   Deactivate or delete user accounts.
 
----
 ## 🧪 Demo
 
-![Demo Screenshot](demo/LoginPage.png)
+### 🔐 Login Page
+<img src="demo/LoginPage.png" alt="Login Page" width="350" />
+
+### 📊 Dashboard
+<img src="demo/Dashboard.png" alt="Dashboard" width="350" />
+
+### 📦 Products Page
+<img src="demo/ProductsPage.png" alt="Products Page" width="350" />
+
+### 📝 Orders Page
+<img src="demo/OrdersPage.png" alt="Orders Page" width="350" />
 
 ---
 
