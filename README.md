@@ -138,3 +138,8 @@ Our team can build a **fully working, secure, optimized, and enterprise-grade ve
 
 We will help you build a **custom ERP** tailored to your exact business operations, with all modules fully functional and ready for real-world use.
 
+
+# Ganatra Info
+Inventory, ERP, Order Management, Laravel, React, Ecommerce Integrations.
+
+
