@@ -110,7 +110,7 @@ If you want:
 - Product/Order/User management modules  
 
 👉 **Please contact our team:**  
-📧 support@ganatrainfo.com  
+📧 contact@ganatrainfo.com  
 🌐 https://ganatrainfo.com  
 
 We will help you build the same system for your business needs.
