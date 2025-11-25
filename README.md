@@ -86,7 +86,7 @@ It provides:
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (TypeScript)
+- **Frontend:** React 19.1.1 (TypeScript)(Node 22.18.0)
 - **Backend:** Laravel 12 (PHP 8.2)  
 - **Database:** MySQL 10.4.32  
 - **Integrations:** Maropost, Shopify  
