@@ -79,7 +79,7 @@ It provides:
 ## 🔐 Demo Login Credentials
 
 **URL:** https://erp.ganatrainfo.com  
-**Email:** `demo@example.com`  
+**Username:** `demouser`  
 **Password:** `Demo@123`
 
 ---
